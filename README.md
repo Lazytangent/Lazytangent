@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Lazytangent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazytangent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Lazytangent/Lazytangent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
