@@ -1,5 +1,7 @@
-### Hi there 👋
+## Heyo, I'm Peter. Welcome.
+
 [![Lazytangent's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Lazytangent&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Lazytangent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazytangent&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
