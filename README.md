@@ -1,4 +1,6 @@
-## Heyo, I'm Peter. Welcome.
+## Hello! I'm Peter!
+
+I'm currently a Jr. Instructional Assistant at App Academy.
 
 [![Lazytangent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazytangent&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
