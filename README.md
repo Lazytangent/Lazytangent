@@ -1,6 +1,6 @@
 ## Hello! I'm Peter!
 
-I'm currently a Module Assistant at App Academy.
+I'm currently an Associate Software Engineer at Vault Health.
 
 [![Lazytangent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazytangent&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
