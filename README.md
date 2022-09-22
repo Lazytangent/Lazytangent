@@ -1,6 +1,8 @@
 ## Hello! I'm Peter!
 
-I'm currently a Software Engineer at Vault Health.
+I was a Software Engineer at Vault Health.
+
+Before that, I was an Instructional Assistant for App Academy's Online Software Engineering 24-week Bootcamp.
 
 [![Lazytangent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazytangent&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
