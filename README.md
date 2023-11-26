@@ -1,8 +1,8 @@
 ## Hello! I'm Peter!
 
-I'm currently a software engineer at Science37.
+I'm currently a software engineer at Pager.
 
-I was a software engineer at Vault Health.
+I was a software engineer at Vault Health and then Science37.
 
 Before that, I was an instructional assistant for App Academy's Online Software Engineering 24-week Bootcamp.
 
